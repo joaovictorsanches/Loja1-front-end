@@ -12,7 +12,7 @@ A segunda versão do site também foi criada com HTML, CSS e flexbox, mas desta 
 
 ## Versão 3
 
-A terceira versão do site está disponível no diretório "projetov3". Ela também foi criada com HTML, CSS e Javascript, mas com algumas melhorias em relação às versões anteriores. O autor utilizou o Bootstrap versão 4 para aprimorar a aparência e também adicionou gatilhos mentais para tornar a experiência do usuário ainda melhor.
+A terceira versão do site está disponível no diretório "projetov3". Ela também foi criada com HTML, CSS e Javascript, mas com algumas melhorias em relação às versões anteriores. O autor utilizou o Bootstrap versão 4 para aprimorar a aparência.
 
 ## Como visualizar o projeto
 
